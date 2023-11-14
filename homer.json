@@ -1,0 +1,39 @@
+{
+    "name": "Simpson, Homer Jay",
+    "children": [
+        {
+            "id": "9fc4d3df-9b7d-4a64-9030-7edf5de05aa0",
+            "data": "<xml><name>Bart</name><age>9</age></xml>"
+        },
+        {
+            "id": "ff6ab858-4491-488b-9579-4d5cce966312",
+            "data": "<xml><name>Lisa</name><age>7</age></xml>"
+        }
+    ],
+    "address": "742 Evergreen Terrace,, Springfield, SP1 4AS",
+    "dateOfBirth": "-308706720",
+    "friends": "Moe       Barney    Ned       ", 
+    "meta":"{\"title\": \"Mr\", \"marital_status\": \"Married\"}",
+    "brand_preferences": "brands:\n- name: Duff\n  type: Beer\n- name: Moe's Tavern\n  type: Bar",
+    "family": {
+        "first_name": [
+            "Marge",
+            "Abe",
+            "Selma",
+            "Patty"
+        ],
+        "last_name": [
+            "Simpson",
+            "Simpson",
+            "Bouvier",
+            "Bouvier"
+        ],
+        "relationship": [
+            "Wife",
+            "Father",
+            "Sister-In-Law",
+            "Sister-In-Law"
+        ]
+    },
+    "performance_review_scores": "Id|Date|Safety|Punctuality|Performance\n8c4010f6-0386-4d63-a2d4-491772240f77|201029121422|3|0|0\n3d8a4970-983b-4068-bc3b-b77e1cbe31c9|201128121422|1|0|0\ne00357a6-02e0-4625-bf52-f63164cd9f14|201229121422|0|0|-1"
+}
